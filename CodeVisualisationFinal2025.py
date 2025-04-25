@@ -14,6 +14,8 @@ import matplotlib.dates as mdates
 import serial
 import datetime as dt
 
+#TEST ADDITIONNEL
+
 class AnimatedMenu(QMenu):
     """Menu déroulant avec animation de fondu"""
     def __init__(self, parent=None):
